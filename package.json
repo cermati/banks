@@ -1,0 +1,25 @@
+{
+  "name": "bank-constant",
+  "version": "1.0.0",
+  "description": "Constant naming convention for banks",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "cp -r src/* ./",
+    "postpublish": "ls src/ | xargs rm -rf",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cermati/banks.git"
+  },
+  "keywords": [
+    "bank",
+    "constant"
+  ],
+  "author": "Theo Pratama <tpratama@cermati.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cermati/banks/issues"
+  },
+  "homepage": "https://github.com/cermati/banks#readme"
+}
