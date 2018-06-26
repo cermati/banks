@@ -215,8 +215,8 @@ module.exports = {
   CHINATRUST: {
     name: "CHINATRUST"
   },
-  CIMB_NIAGA: {
-    name: "CIMB NIAGA"
+  CIMB: {
+    name: "CIMB"
   },
   CIMB_NIAGA_SYARIAH: {
     name: "CIMB NIAGA SYARIAH"
