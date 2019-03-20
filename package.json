@@ -1,6 +1,6 @@
 {
   "name": "bank-constant",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Constant naming convention for banks",
   "main": "index.js",
   "scripts": {

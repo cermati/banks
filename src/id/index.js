@@ -326,6 +326,9 @@ module.exports = {
   OCBC_NISP: {
     name: "OCBC NISP"
   },
+  OCBC_NISP_SYARIAH: {
+    name: "OCBC NISP SYARIAH"
+  },
   PANIN: {
     name: "PANIN"
   },
